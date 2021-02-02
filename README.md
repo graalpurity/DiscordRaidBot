@@ -1,0 +1,2 @@
+# DiscordRaidBot
+Discord.js raidbot
